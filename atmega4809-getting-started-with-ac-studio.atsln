@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Analog_Signal_Pulse_Duration_Measurement", "Analog_Signal_Pulse_Duration_Measurement\Analog_Signal_Pulse_Duration_Measurement.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Level_Crossing_Detector", "Level_Crossing_Detector\Level_Crossing_Detector.cproj", "{084CC409-F0DB-42B3-A737-41BC431F53C7}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Preventing_False_Spike_Detection", "Preventing_False_Spike_Detection\Preventing_False_Spike_Detection.cproj", "{F80F2C7A-DB7E-4DDC-A798-CE69C2F90223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{084CC409-F0DB-42B3-A737-41BC431F53C7}.Debug|AVR.ActiveCfg = Debug|AVR
+		{084CC409-F0DB-42B3-A737-41BC431F53C7}.Debug|AVR.Build.0 = Debug|AVR
+		{084CC409-F0DB-42B3-A737-41BC431F53C7}.Release|AVR.ActiveCfg = Release|AVR
+		{084CC409-F0DB-42B3-A737-41BC431F53C7}.Release|AVR.Build.0 = Release|AVR
+		{F80F2C7A-DB7E-4DDC-A798-CE69C2F90223}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F80F2C7A-DB7E-4DDC-A798-CE69C2F90223}.Debug|AVR.Build.0 = Debug|AVR
+		{F80F2C7A-DB7E-4DDC-A798-CE69C2F90223}.Release|AVR.ActiveCfg = Release|AVR
+		{F80F2C7A-DB7E-4DDC-A798-CE69C2F90223}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
