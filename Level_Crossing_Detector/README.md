@@ -7,7 +7,7 @@ The comparator can be used to monitor battery voltage (or any other DC level).
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:
-- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-90003211A.pdf)
+- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-DS90003211.pdf)
 - [ATMEGA4809 Product Page](https://www.microchip.com/wwwproducts/en/ATMEGA4809)
 - [ATMEGA4809 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=atmega4809)
 - [ATMEGA4809 Project Examples in START](https://start.atmel.com/#examples/ATMEGA4809XplainedPro)

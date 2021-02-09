@@ -2,7 +2,7 @@
 
 # Getting Started with Analog Comparator (AC) Examples (Microchip Studio)
 
-  This repository contains examples of bare metal source code for Analog Comparator (AC) as described in [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-90003211A.pdf) document from Microchip. The repository contains a Microchip Studio Solution with multiple projects:
+  This repository contains examples of bare metal source code for Analog Comparator (AC) as described in [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-DS90003211.pdf) document from Microchip. The repository contains an Atmel Studio Solution with multiple projects:
 
   * [<strong>Analog Signal Pulse Duration Measurement:</strong>](Analog_Signal_Pulse_Duration_Measurement) In this use case, the AC peripheral will be used to measure the input signal period and pulse duration (for more details, see [<strong>Analog Signal Pulse Duration Measurement</strong>](Analog_Signal_Pulse_Duration_Measurement)).
   * [<strong>Level Crossing Detector:</strong>](Level_Crossing_Detector) This example shows a basic initialization and set up for the AC peripheral. The application monitors an analog input signal, compares it to a fixed voltage and notifies the user via interrupt and an output pin every time the input signal crosses the fixed voltage level. (for more details, see [<strong>Level Crossing Detector</strong>](Level_Crossing_Detector)).
@@ -12,7 +12,7 @@
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:
-- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-90003211A.pdf)
+- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-DS90003211.pdf)
 - [ATMEGA4809 Product Page](https://www.microchip.com/wwwproducts/en/ATMEGA4809)
 - [ATMEGA4809 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=atmega4809)
 - [ATMEGA4809 Project Examples in START](https://start.atmel.com/#examples/ATMEGA4809XplainedPro)

@@ -8,7 +8,7 @@ This application is based on the [Level Crossing Detector](../Level_Crossing_Det
 
 ## Related Documentation
 More details and code examples on the ATmega4809 can be found at the following links:
-- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-90003211A.pdf)
+- [TB3211 - Getting Started with Analog Comparator (AC)](https://ww1.microchip.com/downloads/en/Appnotes/TB3211-Getting-Started-with-AC-DS90003211.pdf)
 - [ATmega4809 Product Page](https://www.microchip.com/wwwproducts/en/ATmega4809)
 - [ATmega4809 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=atmega4809)
 - [ATmega4809 Project Examples in START](https://start.atmel.com/#examples/ATmega4809XplainedPro)

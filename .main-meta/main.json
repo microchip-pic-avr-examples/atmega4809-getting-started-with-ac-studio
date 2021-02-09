@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-ac-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Analog Comparator (AC) Examples",
         "projectName": "atmega4809-getting-started-with-ac-studio",
         "shortDescription": "This repository contains 3 bare metal code examples that show how to use the AC peripheral of the ATmega4809 device in different modes. It is a companion to the TB3211-Getting Started with Analog Comparator (AC).",
@@ -14,7 +14,7 @@
         },
         "compiler": [
 			{
-				"name": "avr-gcc",
+				"name": "AVR GCC",
 				"semverRange": "^5.4.0"
 			}
 		],
@@ -41,10 +41,6 @@
             [
                 "Peripherals",
                 "AC"
-            ],
-            [
-                "Development Kit",
-                "ATmega4809 Xplained Pro"
             ]
         ],
         "peripherals": [
