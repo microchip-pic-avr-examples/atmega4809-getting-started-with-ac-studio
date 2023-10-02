@@ -37,12 +37,6 @@
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            [
-                "Peripherals",
-                "AC"
-            ]
-        ],
         "peripherals": [
             "AC"
         ],
