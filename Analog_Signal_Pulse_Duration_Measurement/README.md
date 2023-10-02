@@ -2,7 +2,7 @@
 
 # Analog Signal Pulse Duration Measurement - Use Case for the ATmega4809 Microcontroller with Microchip Studio
 
-This application shows an implementation of duration/frequency measurement for an analog input signal, with minimal usage of microcontroller power. It uses the Event System (EVSYS) to route the signals from the AC output through an Event Channel to Timer Counter B (TCB) Event Input. For this to happen, the Event System must be configured properly.
+This application shows an implementation of duration/frequency measurement for an analog input signal, with minimal usage of microcontroller power. It uses the Event System (EVSYS) to route the signals from the AC output through an Event Channel to Timer Counter B (TCB) Event Input. For this to happen, the EVSYS must be configured properly.
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:

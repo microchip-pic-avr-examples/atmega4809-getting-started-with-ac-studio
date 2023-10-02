@@ -3,7 +3,7 @@
 # Level Crossing Detector - Use Case for the ATmega4809 Microcontroller with Microchip Studio
 
 This example shows a basic initialization and set up for the AC peripheral. The application monitors an analog input signal, compares it to a fixed voltage and notifies the user via interrupt and an output pin every time the input signal crosses the fixed voltage level.
-The comparator can be used to monitor battery voltage (or any other DC level).
+The comparator can be used to monitor battery voltage, or any other DC level.
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:
