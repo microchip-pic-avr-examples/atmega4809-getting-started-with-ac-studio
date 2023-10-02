@@ -32,7 +32,7 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATmega4809",
+                "name": "ATMEGA4809",
                 "versionRange": "*"
             }
         },
