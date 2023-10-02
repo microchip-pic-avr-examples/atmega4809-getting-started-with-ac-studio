@@ -1,6 +1,6 @@
 [![MCHP](../images/microchip.png)](https://www.microchip.com)
 
-# Preventing False Spike Detection
+# Preventing False Spike Detection - Use Case for the ATmega4809 Microcontroller with Microchip Studio
 
 This example demonstrates the hysteresis features of the AC module that helps in avoiding frequent
 toggling of the AC when the positive input oscillates close to the negative input level.  
@@ -14,8 +14,8 @@ More details and code examples on the ATmega4809 can be found at the following l
 - [ATmega4809 Project Examples in START](https://start.atmel.com/#examples/ATmega4809XplainedPro)
 
 ## Software Used
-- Microchip Studio 7.0.2542 or newer [(https://www.microchip.com/mplab/microchip-studio)](https://www.microchip.com/mplab/microchip-studio)
-- ATmega_DFP 1.6.364 or newer Device Pack
+- Microchip Studio 7.0.2594 or newer [(https://www.microchip.com/mplab/microchip-studio)](https://www.microchip.com/mplab/microchip-studio)
+- ATmega_DFP 2.1.506 or newer Device Pack
 
 ## Hardware Used
 - ATmega4809 Xplained Pro [(ATmega4809-XPRO)](https://www.microchip.com/developmenttools/ProductDetails/ATmega4809-XPRO)

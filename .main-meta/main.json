@@ -2,15 +2,15 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-ac-studio",
-        "version": "1.0.1",
-        "displayName": "Getting Started with Analog Comparator (AC) Examples",
+        "version": "1.0.2",
+        "displayName": "Getting Started with Analog Comparator (AC) - Examples for the ATmega4809 Microcontroller with Microchip Studio",
         "projectName": "atmega4809-getting-started-with-ac-studio",
         "shortDescription": "This repository contains 3 bare metal code examples that show how to use the AC peripheral of the ATmega4809 device in different modes. It is a companion to the TB3211-Getting Started with Analog Comparator (AC).",
         "ide": {
             "name": "STUDIO",
-            "semverRange": ">=7.0.2542"
+            "semverRange": ">=7.0.2594"
         },
         "compiler": [
 			{
@@ -20,11 +20,11 @@
 		],
         "dfp": {
             "name": "ATmega_DFP",
-            "semverRange": "^1.6.364"
+            "semverRange": "^2.1.506"
         },
         "configurator": {
             "name": "N/A",
-            "semverRange": ""
+            "semverRange": " "
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -47,7 +47,7 @@
             "AC"
         ],
         "keywords": [
-            "Bare Metal"
+            "Bare Metal", "Getting Started", "AC"
         ],
 		"additionalData": {
 			"longDescription": {
